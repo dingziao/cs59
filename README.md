@@ -1,4 +1,4 @@
-# chatbot (Qwen-0.5B) based on Elm + Haskell + llama.cpp
+# Chatbot (Qwen-0.5B) based on Elm + Haskell + llama.cpp
 
 Live @ [\<demo link\>](https://dingziao.github.io/cs59/)
 
