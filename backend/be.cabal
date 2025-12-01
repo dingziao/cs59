@@ -1,0 +1,20 @@
+cabal-version: 2.4
+name: be
+version: 0.1.0.0
+synopsis: A Haskell project
+description: A simple Haskell project using llama-cpp-haskell
+license: MIT
+author: Your Name
+maintainer: your.email@example.com
+category: AI
+build-type: Simple
+
+executable be
+  main-is: Main.hs
+  build-depends: base ^>=4.18,
+                 text,
+                 llama-cpp-haskell
+  hs-source-dirs: .
+  default-language: Haskell2010
+  extra-lib-dirs: C:\\Users\\devon\\Downloads\\llama-b7211-bin-win-cuda-12.4-x64
+  extra-include-dirs: C:\\Users\\devon\\Downloads\\cudart-llama-bin-win-cuda-12.4-x64
