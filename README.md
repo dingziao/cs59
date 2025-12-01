@@ -31,6 +31,13 @@ I implemented the frontend using Elm. To demonstrate a working demo without depl
 
 I use WebLLM from Elm with ports. The live demo is a pure frontend application that requires no backend server: `Qwen-0.5B` runs in the browser. Each response takes about 10 seconds, so while WebLLM is an intriguing experiment, it is far from practical for production use.
 
+## Reference
+- [https://github.com/mlc-ai/web-llm](https://github.com/mlc-ai/web-llm)
+- [https://github.com/ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+- [https://hackage.haskell.org/package/llama-cpp-haskell](https://hackage.haskell.org/package/llama-cpp-haskell)
+
+
+
 ## Some screenshots
 ### llama.cpp (as Model Engine)
 ![llama.cpp screenshot](pictures/01.png)
