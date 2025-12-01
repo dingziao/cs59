@@ -1,8 +1,9 @@
-# Elm and WebLLM based chatbot
+# chatbot(Qwen-0.5B) based on Elm + Haskell + llama.cpp
+
 Live @ [\<demo link\>](https://dingziao.github.io/cs59/)
 
 > ⚠️ First-time load is very slow.  
-> After first-time load responses take ~10s because this demo uses WebLLM in the browser.  
+> After first-time load responses take ~10s because this hosted demo is using Elm + Webllm.
 > This is not the speed of the full implementation!
 
 
